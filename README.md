@@ -2,6 +2,10 @@
 
 A collection of free cybersecurity tools and learning resources for aspiring security professionals and anyone breaking into the field.
 
+## Live Demo
+
+[Live Demo](https://be-keb.github.io/cybersec-resources)
+
 ## What's Inside
 
 - **Blue Team** — Defensive tools: SIEMs, forensics, malware analysis, threat intel, endpoint defense
@@ -12,13 +16,11 @@ A collection of free cybersecurity tools and learning resources for aspiring sec
 
 - HTML5 + CSS3 (custom fonts: Climate Crisis, Gloock, Bricolage Grotesque)
 - Vanilla JavaScript + localStorage (no backend needed)
+- Github Actions
+- Github Pages
 
 ## How to Use
 
 1. Open `index.html` in any browser
 2. Browse resources by category
-3. Click **Submit a Resource** to add your own — persists across sessions
-
-## Live Demo
-
-[GitHub Pages link coming soon]
+3. Click **Submit a Resource** to add your own — persists across sessions using the browsers localstorage
