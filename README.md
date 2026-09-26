@@ -4,7 +4,9 @@ A collection of free cybersecurity tools and learning resources for aspiring sec
 
 ## Live Demo
 
-[Live Demo](https://be-keb.github.io/cybersec-resources)
+
+[Demo Website](https://be-keb.github.io/cybersec-resources)
+
 
 ## What's Inside
 
